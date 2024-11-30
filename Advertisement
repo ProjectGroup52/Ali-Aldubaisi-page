@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <title>Italy restaurant</title>
+  
+  <style>
+ nav{display:online-block;}
+    nav{text-align:center;}
+    nav{margine:3em;}
+    nav{padding:1em;}
+    nav a{margine:0.5;}
+    nav{background:yellow;}
+    nav{color:blue;}
+    header{text-align:center;}
+    header{background-color:blue;}
+    header{color:yellow;;}
+    article{color:red;}
+     img{text-align:center;}
+    
+    
+    
+
+  </style>
+<header>
+  <h1>Italy restaurant</h1>
+</header>
+    <nav>
+        <a>Home</a>
+        <a>Order</a>
+        <a>My request</a>
+        <a>Account</a><br>
+        <a href="https://maps.app.goo.gl/SHfAM41puRHn9ysp6?g_st=ic">Location</a>
+      
+    </nav>
+  <article>
+    <h2>*20% dicount on the bill*</h2>
+  </article>
+<img src="Italy restaurant.gif">
+
+  <fotter>
+    <h3>Contact phone number:</h3>
+    <p>(966)-534507784</p>
+  </fotter>
+  
+  
+</body>
+
+</html>
